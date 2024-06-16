@@ -17,6 +17,18 @@
 
 /* UTILITIES */
 
+.bg-color-black{
+    background-color: black;
+}
+
+.bg-color-darkceleste{
+    background-color: rgb(0, 68, 255);
+}
+
+.bg-color-blue{
+    background-color: blue;
+}
+
 .bg-color-darkblue{
     background-color: rgb(44, 44, 99);
 }
@@ -27,4 +39,16 @@
 
 .bg-color-acqua{
     background-color: aqua;
+}
+
+.bg-color-darkpink{
+    background-color: rgb(197, 112, 126);
+}
+
+.bg-color-greypinnk{
+    background-color: rgb(184, 138, 152);
+}
+
+.bg-color-lightblue{
+    background-color: rgb(55, 134, 187);
 }
