@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.deebug{
+    height: 50px;
+    border: 1px solid black;
+}
+
+/* UTILITIES */
+
+.bg-color-darkblue{
+    background-color: rgb(44, 44, 99);
+}
+
+.bg-color-greyblue{
+    background-color: rgb(62, 62, 141) ;
+}
+
+.bg-color-acqua{
+    background-color: aqua;
+}
