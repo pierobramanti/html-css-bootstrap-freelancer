@@ -60,6 +60,10 @@
     background-color: rgb(55, 134, 187);
 }
 
+.color-white{
+    color: white;
+}
+
 /* STYLE*/
 
 .lines:before, .lines:after {
@@ -75,3 +79,24 @@
 .black_lines.lines::before, .black_lines.lines::after {
     background-color: black;
 }
+
+
+input[type=text]{
+    border:none;   
+    border-bottom: 1px solid black;
+    border-radius: 0;
+}
+  
+input[type=email]{
+    border:none;   
+    border-bottom: 1px solid black;
+    border-radius: 0;
+}
+
+input[type=tel]{
+    border:none;   
+    border-bottom: 1px solid black;
+    border-radius: 0;
+}
+
+
