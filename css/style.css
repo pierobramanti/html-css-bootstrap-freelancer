@@ -11,6 +11,11 @@
 
 .content{
     border: 1px solid black;
+    width: 100%;
+}
+
+.avatar{
+    width: 200px;
 }
 
 /* UTILITIES */
@@ -49,4 +54,16 @@
 
 .bg-color-lightblue{
     background-color: rgb(55, 134, 187);
+}
+
+/* STYLE*/
+
+.lines:before, .lines:after {
+    display: inline-block;
+    content: '';
+    width: 100px;
+    height: 3px;
+    background-color: black;
+    background-color: #fff;
+    vertical-align: middle;
 }
